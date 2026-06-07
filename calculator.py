@@ -32,7 +32,7 @@ def calculator():
     while True:
         choice = input("\nEnter your choice (1/2/3/4/5): ").strip()
         if choice in ('5'):
-            print("\nExiting the calculator. Goodbye!")
+            print("\nExiting the calculator. Goodby!")
             break   
 
         if choice in ('1', '2', '3', '4'):
